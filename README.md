@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer from Ushuaia - Argentina
 
 ******
-- 🔭 I’m currently working on new App with my team !
+- 🔭 I’m currently working on a new App with my team !
 - 🌱 I’m currently learning everything !
 - 👯 I’m looking to collaborate with any other developers around the world !
 - ⚡ Fun fact: I´m Music Teacher, drummer/guitar player and a big fan of the Foo Fighters band!
