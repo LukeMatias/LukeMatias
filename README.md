@@ -3,6 +3,10 @@
 ## I'm a Full Stack Developer from Ushuaia - Argentina
 
 ******
+- 🔭 I’m currently working on new App with my team !
+- 🌱 I’m currently learning everything !
+- 👯 I’m looking to collaborate with any other developers around the world !
+- ⚡ Fun fact: I´m Music Teacher, drummer/guitar player and a big fan of the Foo Fighters band!
 
 ### Tech Stack
 
@@ -21,7 +25,7 @@
   <img align="left" alt="Git" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </p
   
-  ******
+******
   
 ### How to reach me 📫:
    <p>
@@ -45,5 +49,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+c
 -->
