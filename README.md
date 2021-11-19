@@ -39,7 +39,7 @@
    
 
 <img  src="https://github-readme-stats.vercel.app/api?username=LukeMatias" />  
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukematias" />  
+<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukematias" />  
 
 
 <!--
