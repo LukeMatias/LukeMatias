@@ -37,7 +37,8 @@
       </a>  
    </p>
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMatias)] 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=LukeMatias" />  
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukematias" />  
 
 
@@ -54,5 +55,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 //(https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMatias)] 
 c
 -->
