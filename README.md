@@ -4,7 +4,7 @@
 
 ******
 - 🔭 I’m currently working on a new App with my team !
-- 🌱 I’m currently learning everything !
+- 🌱 I’m currently learning Type Script !
 - 👯 I’m looking to collaborate with any other developers around the world !
 - ⚡ Fun fact: I´m Music Teacher, drummer/guitar player and a big fan of the Foo Fighters band!
 
@@ -32,6 +32,9 @@
       <a href="https://www.linkedin.com/in/lucasmatiasba/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucas LinkedIn Profile" height="40" width="40">
       </a> 
+ <a align='right' href="mailto:lucas.matias.ba@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="40" width="40"/>
+      </a>  
    </p>
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeMatias)](https://github.com/anuraghazra/github-readme-stats)
