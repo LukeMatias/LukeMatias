@@ -3,9 +3,9 @@
 ## I'm a Full Stack Developer from Ushuaia - Argentina
 
 ******
-- 🔭 I’m currently working on a new App with my team !
+- 🔭 I’m looking for my first job as a Developer !
 - 🌱 I’m currently learning Type Script !
-- 👯 I’m looking to collaborate with any other developers around the world !
+- 👯 I wish to create things to help people !
 - ⚡ Fun fact: I´m Music Teacher, drummer/guitar player and a big fan of the Foo Fighters band!
 
 ### Tech Stack
