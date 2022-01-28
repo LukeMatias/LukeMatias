@@ -4,7 +4,7 @@
 
 ******
 - 🔭 I’m looking for my first job as a Developer !
-- 🌱 I’m currently learning Type Script !
+- 🌱 I’m currently learning Next JS !
 - 👯 I wish to create things to help people !
 - ⚡ Fun fact: I´m Music Teacher, drummer/guitar player and a big fan of the Foo Fighters band!
 
